@@ -1,0 +1,68 @@
+@charset "utf-8";
+body, h1, h2, h3, h4, h5, h6, hr, p, blockquote, dl, dt, dd, ul, ol, li, pre, fieldset, lengend, button, input, textarea, th, td {
+    margin: 0;
+    padding: 0;
+}
+body,td,th {
+    font-family: Arial, simsun, "microsoft yahei";
+}
+.lay_right {
+	width: 100%;
+	background:#fff;
+    overflow: hidden;
+    margin: 0px auto;
+    font: 17px/22px Sinsum,Arial;
+    color: #816e59;
+}
+.lay_right_cont {
+	width: 1200px;
+}
+.content {
+    margin: 0px auto;
+    height: auto!important;
+    height: 540px;
+    min-height: 540px;
+}
+.location {
+    padding: 4px 0 0px 17px;
+    text-align: left;
+}
+.location a{
+    color: #666;
+
+}
+.hr_10 {
+    height: 10px;
+}
+.hr_10 {
+    clear: both;
+    overflow: hidden;
+    font-size: 1px;
+    line-height: 1px;
+}
+.adtitle_bg {
+	width: 1200px;
+	height: 130px;
+}
+.adtitle_bg img {
+    border: none;
+    width: 100%;
+    height: 100%;
+}
+
+.caissa_bassic {
+    padding: 20px 65px 15px 65px;
+	background-color:#FFFBF0;
+
+}
+.caissa_bassic p {
+    line-height: 1.6em;
+    text-indent: 24px;
+    margin-bottom: 15px;
+    text-align: left;
+    font-size: 16px;
+}
+.caissa_bassic h3{
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
