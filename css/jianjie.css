@@ -22,9 +22,10 @@ body,td,th {
     height: auto!important;
     height: 540px;
     min-height: 540px;
+    margin-bottom: 20px;
 }
 .location {
-    padding: 4px 0 0px 17px;
+    padding: 24px 0 0px 17px;
     text-align: left;
 }
 .location a{
