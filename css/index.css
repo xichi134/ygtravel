@@ -79,6 +79,7 @@ a#feedback:hover { background-position: 0 -53px; }
 }
 .top{
 	width:100%;
+	min-width: 1040px;
 	height:55px;
 	position:relative;
 	margin:0px auto;
